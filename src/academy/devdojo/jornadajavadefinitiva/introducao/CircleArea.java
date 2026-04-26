@@ -1,4 +1,3 @@
-package academy.devdojo.jornadajavadefinitiva.introducao;
 import java.util.Scanner;
 import java.util.Locale;
 
